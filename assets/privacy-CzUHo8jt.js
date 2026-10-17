@@ -1,1 +1,0 @@
-import{o as e,r as t}from"./index-BWauCm42.js";var n=e(),r=()=>(0,n.jsx)(t,{eyebrow:`Privacy`,title:`Privacy`,children:`This site does not use cookies, analytics, or tracking, and does not collect personal information. If you email us, we use your message only to reply.`});export{r as component};
